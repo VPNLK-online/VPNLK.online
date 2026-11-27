@@ -11,7 +11,7 @@
 [![Get Serendib Ray on Google Play](https://img.shields.io/badge/Google_Play-Serendib_Ray-1d4ed8?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dev.dinith.serendibray.serendibray)
 [![Join the Telegram group](https://img.shields.io/badge/Telegram-Join_the_group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnlkV2ray)
 
-![VMess on vpnlk.online](https://img.shields.io/badge/VMess%20on%20vpnlk.online-346-16a34a?style=flat-square) ![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-15-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-27%20Nov%202026%2C%2005%3A11%20UTC-2563eb?style=flat-square)
+![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-15-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-27%20Nov%202026%2C%2005%3A15%20UTC-2563eb?style=flat-square)
 
 </div>
 
@@ -19,7 +19,9 @@ A **free VMess config list** from [**VPNLK.online**](https://vpnlk.online/), upd
 
 <div align="center">
 
-### 🌐 [**346 working VMess servers** on vpnlk.online →](https://vpnlk.online/type/vmess)
+**🌐 Working servers on vpnlk.online**
+
+### [VLESS 1065](https://vpnlk.online/type/vless) &nbsp;|&nbsp; [VMess 346](https://vpnlk.online/type/vmess) &nbsp;|&nbsp; [Trojan 171](https://vpnlk.online/type/trojan) &nbsp;|&nbsp; [Shadowsocks 318](https://vpnlk.online/type/shadowsocks)
 
 [VMess configs](#-latest-free-vmess-configs) &nbsp;•&nbsp;
 [Subscription link](#-free-vmess-subscription-link) &nbsp;•&nbsp;
@@ -57,7 +59,7 @@ https://raw.githubusercontent.com/VPNLK-online/VPNLK.online/main/configs/vmess-s
 
 ## 🚀 Latest free VMess configs
 
-**15 free VMess configs** on this page &nbsp;·&nbsp; last changed **27 Nov 2026, 05:11 UTC**
+**15 free VMess configs** on this page &nbsp;·&nbsp; last changed **27 Nov 2026, 05:15 UTC**
 
 > 🌐 This page shows **15**. The website lists **346 working VMess servers**: **[see them all on vpnlk.online/type/vmess](https://vpnlk.online/type/vmess)**
 
@@ -286,7 +288,7 @@ It is one line of text starting with `vmess://`. It tells a V2Ray app which serv
 
 ### How often is this free VMess list updated?
 
-An automatic check is scheduled every 10 minutes, and this page changes when the list or the website's server count changes. GitHub can start scheduled checks late. VPNLK.online says it tests its servers every hour.
+An automatic check is scheduled every 10 minutes, and this page changes when the list or the website's server counts change. GitHub can start scheduled checks late. VPNLK.online says it tests its servers every hour.
 
 ### Why is my VMess config not working?
 
@@ -327,4 +329,4 @@ Read more: [are free V2Ray configs safe?](https://vpnlk.online/guides/are-free-v
 
 </div>
 
-<!-- content-digest: 8eb18deee8a868345d31a52979a32f4208bd3dd2ca5a59b5e79b2d0698a3a06b -->
+<!-- content-digest: b1c10f99f917fe3e46d44d51817e0bb4a3eda9896c4898e94607a7e09a4af88e -->
