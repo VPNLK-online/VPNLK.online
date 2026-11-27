@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="190" viewBox="0 0 1200 190" role="img" aria-label="Need more servers? Visit vpnlk.online">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#101d33"/>
+      <stop offset="1" stop-color="#0f766e"/>
+    </linearGradient>
+  </defs>
+  <style>
+    text { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif; }
+    .nudge { animation: nudge 1.8s ease-in-out infinite; }
+    @keyframes nudge { 0%, 100% { transform: translateX(0); } 50% { transform: translateX(8px); } }
+    @media (prefers-reduced-motion: reduce) { .nudge { animation: none; } }
+  </style>
+  <rect width="1200" height="190" rx="24" fill="url(#bg)"/>
+  <text x="56" y="86" font-size="38" font-weight="800" fill="#ffffff">Need more servers?</text>
+  <text x="56" y="130" font-size="22" fill="#b6e7df">VLESS, Trojan, Shadowsocks and more VMess, sorted by country.</text>
+  <rect x="826" y="62" width="318" height="66" rx="33" fill="#ffffff"/>
+  <text x="962" y="104" font-size="25" font-weight="700" fill="#0b4a5c" text-anchor="middle">vpnlk.online</text>
+  <text class="nudge" x="1082" y="104" font-size="26" font-weight="700" fill="#0f766e">→</text>
+</svg>
