@@ -11,7 +11,7 @@
 [![Get Serendib Ray on Google Play](https://img.shields.io/badge/Google_Play-Serendib_Ray-1d4ed8?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dev.dinith.serendibray.serendibray)
 [![Join the Telegram group](https://img.shields.io/badge/Telegram-Join_the_group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnlkV2ray)
 
-![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-17-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-27%20Nov%202026%2C%2019%3A39%20UTC-2563eb?style=flat-square)
+![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-16-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-27%20Nov%202026%2C%2020%3A37%20UTC-2563eb?style=flat-square)
 
 </div>
 
@@ -21,7 +21,7 @@ A **free VMess config list** from [**VPNLK.online**](https://vpnlk.online/), upd
 
 **🌐 Working servers on vpnlk.online**
 
-### [VLESS 489](https://vpnlk.online/type/vless) &nbsp;|&nbsp; [VMess 222](https://vpnlk.online/type/vmess) &nbsp;|&nbsp; [Trojan 10](https://vpnlk.online/type/trojan) &nbsp;|&nbsp; [Shadowsocks 220](https://vpnlk.online/type/shadowsocks)
+### [VLESS 464](https://vpnlk.online/type/vless) &nbsp;|&nbsp; [VMess 212](https://vpnlk.online/type/vmess) &nbsp;|&nbsp; [Trojan 7](https://vpnlk.online/type/trojan) &nbsp;|&nbsp; [Shadowsocks 209](https://vpnlk.online/type/shadowsocks)
 
 [VMess configs](#-latest-free-vmess-configs) &nbsp;•&nbsp;
 [Subscription link](#-free-vmess-subscription-link) &nbsp;•&nbsp;
@@ -59,33 +59,32 @@ https://raw.githubusercontent.com/VPNLK-online/VPNLK.online/main/configs/vmess-s
 
 ## 🚀 Latest free VMess configs
 
-**17 free VMess configs** on this page &nbsp;·&nbsp; last changed **27 Nov 2026, 19:39 UTC**
+**16 free VMess configs** on this page &nbsp;·&nbsp; last changed **27 Nov 2026, 20:37 UTC**
 
-> 🌐 This page shows **17**. The website lists **222 working VMess servers**: **[see them all on vpnlk.online/type/vmess](https://vpnlk.online/type/vmess)**
+> 🌐 This page shows **16**. The website lists **212 working VMess servers**: **[see them all on vpnlk.online/type/vmess](https://vpnlk.online/type/vmess)**
 
-<sub>🇸🇬 Singapore <b>13</b> &nbsp;·&nbsp; 🇲🇾 Malaysia <b>2</b> &nbsp;·&nbsp; 🇭🇰 Hong Kong <b>1</b> &nbsp;·&nbsp; 🇹🇭 Thailand <b>1</b></sub>
+<sub>🇸🇬 Singapore <b>13</b> &nbsp;·&nbsp; 🇹🇭 Thailand <b>1</b> &nbsp;·&nbsp; 🇨🇭 Switzerland <b>1</b> &nbsp;·&nbsp; 🇮🇪 Ireland <b>1</b></sub>
 
 <details>
-<summary><b>📋 Copy all 17 configs at once</b></summary>
+<summary><b>📋 Copy all 16 configs at once</b></summary>
 
 ```text
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwMSIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIiLCJwY3MiOiIiLCJ2Y24iOiIiLCJlY2giOiIiLCJwcXYiOiIifQ==
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii80YmMwMjdhNDQ1MzIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDIiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDQiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDNBRDM2MyJ9
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNSIsInNuaSI6IjE0OS44OC4yMy4yMDIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwNyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNiIsInNuaSI6IjE0OS44OC4yMy4yMDciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii80YmMwMjdhNDQ1MzIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDEiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzAyIiwic25pIjoiMTQ5Ljg4LjIzLjIwNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwMyIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIiLCJwY3MiOiIiLCJ2Y24iOiIiLCJlY2giOiIiLCJwcXYiOiIifQ==
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwNyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNCIsInNuaSI6IjE0OS44OC4yMy4yMDciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDUiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDNBRDM2MyJ9
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNiIsInNuaSI6IjE0OS44OC4yMy4yMDIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0taTEwVlBOIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzA3Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDgiLCJhZGQiOiIxNDkuODguMjMuMjA3IiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0Ijoid3cxMS5sZXZpa29namdmZGQuaXIiLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiU0cg8J+HuPCfh6wgfCBAUmF5ZGlrYWx4IHwgQ0FGMzRGIn0=
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzA5Iiwic25pIjoiMTQ5Ljg4LjIzLjIwNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gVlBOTEsub25saW5lIHwgTWFsYXlzaWEgIzEwIiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Lwn4e+IFZQTkxLLm9ubGluZSB8IE1hbGF5c2lhICMxMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3In0=
-vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicGNzIjoiIiwicG9ydCI6IjUyMDgwIiwicHMiOiLwn4et8J+HsCBWUE5MSy5vbmxpbmUgfCBIb25nIEtvbmcgIzEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMTQiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMxNSIsInNuaSI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxODAwMCwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzE2Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
-vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOm51bGwsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmFtZSI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Mzc1MTUsInBzIjoi8J+HufCfh60gVlBOTEsub25saW5lIHwgVGhhaWxhbmQgIzE3Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMTEiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMxMiIsInNuaSI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxODAwMCwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEzIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
+vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOm51bGwsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmFtZSI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Mzc1MTUsInBzIjoi8J+HufCfh60gVlBOTEsub25saW5lIHwgVGhhaWxhbmQgIzE0Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gVlBOTEsub25saW5lIHwgU3dpdHplcmxhbmQgIzE1IiwiYWRkIjoiMTc5LjQzLjE0MC4yNCIsInBvcnQiOiI0MjgzMSIsImlkIjoiYTkyNWE5OGMtYWQ3YS00MGM2LTlmZGYtMTMwYTFkZTY5NDE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20iLCJwYXRoIjoiLzN4IiwidGxzIjoiIn0=
+vmess://eyJhZGQiOiJsZXZpa28taWU2MzY0LnNob3BpbmdnZ2cuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkyMzYiLCJwcyI6IvCfh67wn4eqIFZQTkxLLm9ubGluZSB8IElyZWxhbmQgIzE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ```
 
 </details>
@@ -95,10 +94,10 @@ vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGws
 Open a row, then press the copy button at the top right of the box.
 
 <details>
-<summary><b>#01</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 4 ms</summary>
+<summary><b>#01</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwMSIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIiLCJwY3MiOiIiLCJ2Y24iOiIiLCJlY2giOiIiLCJwcXYiOiIifQ==
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii80YmMwMjdhNDQ1MzIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDEiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ```
 
 </details>
@@ -107,7 +106,7 @@ vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwMSIs
 <summary><b>#02</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6Ii80YmMwMjdhNDQ1MzIiLCJwb3J0IjoiMTgwMDAiLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDIiLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzAyIiwic25pIjoiMTQ5Ljg4LjIzLjIwNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ```
 
 </details>
@@ -116,7 +115,7 @@ vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoi
 <summary><b>#03</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzAzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwMyIsImFkZCI6IjE0OS44OC4yMy4yMDciLCJwb3J0IjoiMTgwMDAiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiLz9UZWxlZ3JhbS0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVC0tLVBMQU5CX05FVCIsInBhdGgiOiIiLCJ0bHMiOiJub25lIiwic25pIjoiIiwiYWxwbiI6IiIsImZwIjoiIiwiaW5zZWN1cmUiOiIiLCJwY3MiOiIiLCJ2Y24iOiIiLCJlY2giOiIiLCJwcXYiOiIifQ==
 ```
 
 </details>
@@ -125,16 +124,16 @@ vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhv
 <summary><b>#04</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDQiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDNBRDM2MyJ9
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwNyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNCIsInNuaSI6IjE0OS44OC4yMy4yMDciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ```
 
 </details>
 
 <details>
-<summary><b>#05</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 6 ms</summary>
+<summary><b>#05</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNSIsInNuaSI6IjE0OS44OC4yMy4yMDIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDUiLCJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsInBvcnQiOjE4MDAwLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6bnVsbCwiaG9zdCI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDNBRDM2MyJ9
 ```
 
 </details>
@@ -143,7 +142,7 @@ vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIs
 <summary><b>#06</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 6 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwNyIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNiIsInNuaSI6IjE0OS44OC4yMy4yMDciLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjowLCJob3N0IjoiMTQ5Ljg4LjIzLjIwMiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMwNiIsInNuaSI6IjE0OS44OC4yMy4yMDIiLCJ0bHMiOiIiLCJ0eXBlIjoibm9uZSIsInYiOiIyIn0=
 ```
 
 </details>
@@ -170,79 +169,70 @@ vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMDgi
 <summary><b>#09</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 7 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjowLCJob3N0IjoiIiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzA5Iiwic25pIjoiMTQ5Ljg4LjIzLjIwNyIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjA3IiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzA5Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIifQ==
 ```
 
 </details>
 
 <details>
-<summary><b>#10</b>&nbsp; 🇲🇾 <b>Malaysia</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>10000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 18 ms</summary>
+<summary><b>#10</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 586 Mbps &nbsp;·&nbsp; 📶 7 ms</summary>
 
 ```text
-vmess://eyJ2IjoiMiIsInBzIjoi8J+HsvCfh74gVlBOTEsub25saW5lIHwgTWFsYXlzaWEgIzEwIiwiYWRkIjoiNDcuMjUwLjEzNS4yNDQiLCJwb3J0IjoiMTAwMDAiLCJpZCI6ImFlZGM2NmI4LTk5ZDctNGEyMS04MzEwLTYxODcwZTdmODcwZCIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEwIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
 ```
 
 </details>
 
 <details>
-<summary><b>#11</b>&nbsp; 🇲🇾 <b>Malaysia</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>10000</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 18 ms</summary>
+<summary><b>#11</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 471 Mbps &nbsp;·&nbsp; 📶 6 ms</summary>
 
 ```text
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7Lwn4e+IFZQTkxLLm9ubGluZSB8IE1hbGF5c2lhICMxMSIsImFkZCI6IjQ3LjI1MC4xMzUuMjQ0IiwicG9ydCI6MTAwMDAsImlkIjoiYWVkYzY2YjgtOTlkNy00YTIxLTgzMTAtNjE4NzBlN2Y4NzBkIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjpudWxsLCJhbHBuIjpudWxsLCJwYXRoIjoiLyIsInRscyI6Im5vbmUiLCJzbmkiOm51bGwsImZwIjpudWxsLCJuYW1lIjoiTVkg8J+HsvCfh74gfCBAUmF5ZGlrYWx4IHwgQUQ4RTM3In0=
+vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMTEiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
 ```
 
 </details>
 
 <details>
-<summary><b>#12</b>&nbsp; 🇭🇰 <b>Hong Kong</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>52080</code> &nbsp;·&nbsp; ⚡ 1 Gbps+ &nbsp;·&nbsp; 📶 46 ms</summary>
+<summary><b>#12</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 408 Mbps &nbsp;·&nbsp; 📶 5 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiI0Ny4yNDIuODEuOTQiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6Im9wZW5haS5jb20iLCJpZCI6ImU0N2I5Zjc3LTYwZTQtNDczOC04ZDUzLTc3MmI2MDAyZTE0NiIsImluc2VjdXJlIjoiMCIsIm5ldCI6InRjcCIsInBhdGgiOiIvUVFxdW4tNzM3ODA1NDQzIiwicGNzIjoiIiwicG9ydCI6IjUyMDgwIiwicHMiOiLwn4et8J+HsCBWUE5MSy5vbmxpbmUgfCBIb25nIEtvbmcgIzEyIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMxMiIsInNuaSI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
 ```
 
 </details>
 
 <details>
-<summary><b>#13</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 586 Mbps &nbsp;·&nbsp; 📶 7 ms</summary>
+<summary><b>#13</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 363 Mbps &nbsp;·&nbsp; 📶 4 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6IjAiLCJhbHBuIjoiIiwiZnAiOiIiLCJob3N0IjoiVGVsZWdyYW0tTGV2aWtvX3YycmF5IiwiaWQiOiJmOGM4ZGMzZC0wZDM3LTQ2YjAtOGIzNC1hNzIzMjg4MmZjZmUiLCJpbnNlY3VyZSI6IjAiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicGNzIjoiIiwicG9ydCI6IjE4MDAwIiwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEzIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJub25lIiwidiI6IjIiLCJ2Y24iOiIifQ==
+vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxODAwMCwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzEzIiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
 ```
 
 </details>
 
 <details>
-<summary><b>#14</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 471 Mbps &nbsp;·&nbsp; 📶 6 ms</summary>
+<summary><b>#14</b>&nbsp; 🇹🇭 <b>Thailand</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>37515</code> &nbsp;·&nbsp; ⚡ 78 Mbps &nbsp;·&nbsp; 📶 32 ms</summary>
 
 ```text
-vmess://eyJ2IjpudWxsLCJwcyI6IvCfh7jwn4esIFZQTkxLLm9ubGluZSB8IFNpbmdhcG9yZSAjMTQiLCJhZGQiOiIxNDkuODguMjMuMjAyIiwicG9ydCI6MTgwMDAsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjpudWxsLCJob3N0IjoiIiwiYWxwbiI6bnVsbCwicGF0aCI6Ii8iLCJ0bHMiOiJub25lIiwic25pIjpudWxsLCJmcCI6bnVsbCwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
+vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOm51bGwsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmFtZSI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Mzc1MTUsInBzIjoi8J+HufCfh60gVlBOTEsub25saW5lIHwgVGhhaWxhbmQgIzE0Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9
 ```
 
 </details>
 
 <details>
-<summary><b>#15</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 408 Mbps &nbsp;·&nbsp; 📶 5 ms</summary>
+<summary><b>#15</b>&nbsp; 🇨🇭 <b>Switzerland</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>42831</code> &nbsp;·&nbsp; ⚡ 42 Mbps &nbsp;·&nbsp; 📶 160 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiJ3dzExLmxldmlrb2dqZ2ZkZC5pciIsImFpZCI6MCwiaG9zdCI6IiIsImlkIjoiZjhjOGRjM2QtMGQzNy00NmIwLThiMzQtYTcyMzI4ODJmY2ZlIiwibmV0IjoidGNwIiwicGF0aCI6IiIsInBvcnQiOiIxODAwMCIsInBzIjoi8J+HuPCfh6wgVlBOTEsub25saW5lIHwgU2luZ2Fwb3JlICMxNSIsInNuaSI6Ind3MTEubGV2aWtvZ2pnZmRkLmlyIiwidGxzIjoiIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh60gVlBOTEsub25saW5lIHwgU3dpdHplcmxhbmQgIzE1IiwiYWRkIjoiMTc5LjQzLjE0MC4yNCIsInBvcnQiOiI0MjgzMSIsImlkIjoiYTkyNWE5OGMtYWQ3YS00MGM2LTlmZGYtMTMwYTFkZTY5NDE2IiwiYWlkIjoiMCIsInNjeSI6ImF1dG8iLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoiaHR0cCIsImhvc3QiOiJkb3duLWNkbi5kaW5ndGFsay5jb20iLCJwYXRoIjoiLzN4IiwidGxzIjoiIn0=
 ```
 
 </details>
 
 <details>
-<summary><b>#16</b>&nbsp; 🇸🇬 <b>Singapore</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>18000</code> &nbsp;·&nbsp; ⚡ 363 Mbps &nbsp;·&nbsp; 📶 6 ms</summary>
+<summary><b>#16</b>&nbsp; 🇮🇪 <b>Ireland</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>59236</code> &nbsp;·&nbsp; ⚡ 37 Mbps &nbsp;·&nbsp; 📶 173 ms</summary>
 
 ```text
-vmess://eyJhZGQiOiIxNDkuODguMjMuMjAyIiwiYWlkIjoiMCIsImhvc3QiOiIiLCJpZCI6ImY4YzhkYzNkLTBkMzctNDZiMC04YjM0LWE3MjMyODgyZmNmZSIsIm5hdGlvbiI6IiIsIm5ldCI6InRjcCIsInBhdGgiOiIiLCJwb3J0IjoxODAwMCwicHMiOiLwn4e48J+HrCBWUE5MSy5vbmxpbmUgfCBTaW5nYXBvcmUgIzE2Iiwic2N5IjoiYXV0byIsInNlcnZlclBvcnQiOjAsInNuaSI6IiIsInRscyI6Im5vbmUiLCJ0eXBlIjoibm9uZSIsInYiOiIyIiwic2tpcC1jZXJ0LXZlcmlmeSI6dHJ1ZSwibmFtZSI6IlNHIPCfh7jwn4esIHwgQFJheWRpa2FseCB8IDhFRUUwOSJ9
-```
-
-</details>
-
-<details>
-<summary><b>#17</b>&nbsp; 🇹🇭 <b>Thailand</b> &nbsp;·&nbsp; <code>tcp</code> <code>no TLS</code> &nbsp;·&nbsp; port <code>37515</code> &nbsp;·&nbsp; ⚡ 78 Mbps &nbsp;·&nbsp; 📶 33 ms</summary>
-
-```text
-vmess://eyJhZGQiOiIxMTkuNDYuNTEuNDUiLCJhaWQiOiIwIiwiYWxwbiI6bnVsbCwiZnAiOm51bGwsImhvc3QiOm51bGwsImlkIjoiOWI3NmJjMzEtMTdhNS00NDU0LTkzNGEtOGQ1ZmI2MDJjZDcwIiwibmFtZSI6IlRIIPCfh7nwn4etIHwgQFJheWRpa2FseCB8IDg2RkY3NiIsIm5ldCI6InRjcCIsInBhdGgiOiIvIiwicG9ydCI6Mzc1MTUsInBzIjoi8J+HufCfh60gVlBOTEsub25saW5lIHwgVGhhaWxhbmQgIzE3Iiwic2N5IjoiYXV0byIsInNuaSI6bnVsbCwidGxzIjoibm9uZSIsInR5cGUiOm51bGwsInYiOm51bGx9
+vmess://eyJhZGQiOiJsZXZpa28taWU2MzY0LnNob3BpbmdnZ2cuaXIiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6IiIsImlkIjoiMjM4N2JmYmMtMTBhNi00YmQ3LWRjNTUtN2NiYTk1NGNlNmU4IiwiaW5zZWN1cmUiOiIwIiwibmV0IjoidGNwIiwicGF0aCI6Ii8iLCJwb3J0IjoiNTkyMzYiLCJwcyI6IvCfh67wn4eqIFZQTkxLLm9ubGluZSB8IElyZWxhbmQgIzE2Iiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiJodHRwIiwidiI6IjIifQ==
 ```
 
 </details>
@@ -349,4 +339,4 @@ Read more: [are free V2Ray configs safe?](https://vpnlk.online/guides/are-free-v
 
 </div>
 
-<!-- content-digest: 00a4369d26d45217c033b1297268cafb5fb781697839134f4a70c1bd1d27977a -->
+<!-- content-digest: 7011f4a6b33a9212a823c748f4bb5709d39005e926dbe4cefdf463ccb42a68ea -->
