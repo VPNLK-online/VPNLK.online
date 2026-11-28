@@ -11,7 +11,7 @@
 [![Get Serendib Ray on Google Play](https://img.shields.io/badge/Google_Play-Serendib_Ray-1d4ed8?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=dev.dinith.serendibray.serendibray)
 [![Join the Telegram group](https://img.shields.io/badge/Telegram-Join_the_group-229ED9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vpnlkV2ray)
 
-![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-17-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-28%20Nov%202026%2C%2017%3A19%20UTC-2563eb?style=flat-square)
+![VMess on this page](https://img.shields.io/badge/VMess%20on%20this%20page-17-0f766e?style=flat-square) ![Last changed](https://img.shields.io/badge/Last%20changed-28%20Nov%202026%2C%2018%3A09%20UTC-2563eb?style=flat-square)
 
 </div>
 
@@ -21,7 +21,7 @@ A **free VMess config list** from [**VPNLK.online**](https://vpnlk.online/), upd
 
 **🌐 Working servers on vpnlk.online**
 
-### [VLESS 895](https://vpnlk.online/type/vless) &nbsp;|&nbsp; [VMess 276](https://vpnlk.online/type/vmess) &nbsp;|&nbsp; [Trojan 13](https://vpnlk.online/type/trojan) &nbsp;|&nbsp; [Shadowsocks 276](https://vpnlk.online/type/shadowsocks)
+### [VLESS 891](https://vpnlk.online/type/vless) &nbsp;|&nbsp; [VMess 276](https://vpnlk.online/type/vmess) &nbsp;|&nbsp; [Trojan 9](https://vpnlk.online/type/trojan) &nbsp;|&nbsp; [Shadowsocks 276](https://vpnlk.online/type/shadowsocks)
 
 [VMess configs](#-latest-free-vmess-configs) &nbsp;•&nbsp;
 [Subscription link](#-free-vmess-subscription-link) &nbsp;•&nbsp;
@@ -59,7 +59,7 @@ https://raw.githubusercontent.com/VPNLK-online/VPNLK.online/main/configs/vmess-s
 
 ## 🚀 Latest free VMess configs
 
-**17 free VMess configs** on this page &nbsp;·&nbsp; last changed **28 Nov 2026, 17:19 UTC**
+**17 free VMess configs** on this page &nbsp;·&nbsp; last changed **28 Nov 2026, 18:09 UTC**
 
 > 🌐 This page shows **17**. The website lists **276 working VMess servers**: **[see them all on vpnlk.online/type/vmess](https://vpnlk.online/type/vmess)**
 
@@ -349,4 +349,4 @@ Read more: [are free V2Ray configs safe?](https://vpnlk.online/guides/are-free-v
 
 </div>
 
-<!-- content-digest: d7d87270819cb64a47866ccd83b29c7eec7a13b964eafeeb150a36194a48896d -->
+<!-- content-digest: e20516b8a9eefd26f9cf5f3304dcd0781486d0aa0be324cd7e92bb36a86cf937 -->
